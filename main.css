@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px; 
+}
+.title{
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+}
+.form{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.box{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card{
+    padding: 10px;
+    border: 3px solid;
+    border-radius: 16px;
+    text-align: center;
+}
+.card_text{
+    margin-top: 20px;
+    
+}
